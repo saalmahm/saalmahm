@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E80956&size=35&center=true&vCenter=true&width=1000&lines=Hi👋,+, I'm SALMA HAMDI;I'm+a+Full+Stack+Developer+:%29)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm SALMA HAMDI</h1>
+
 <h3 align="center">A future-focused developer eager to learn, based in Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saalmahm&label=Profile%20views&color=0e75b6&style=flat" alt="saalmahm" /> </p>
