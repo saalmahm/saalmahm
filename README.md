@@ -1,19 +1,19 @@
 <!-- TYPING HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!;I'm+Salma+Hamdi;Full+Stack+Developer&color=9932CC" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!;I'm+Salma+Hamdi;Full+Stack+Developer&color=E80956" />
 </h1>
 
 <h3 align="center">Full Stack Developer based in Morocco</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saalmahm&label=Profile%20views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=saalmahm&label=Profile%20views&color=E80956&style=for-the-badge" />
 </p>
 
-<img align="right" width="380" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+<img align="right" width="310" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
 
-### About Me
+### About Me 
 
-<div align="left" style="line-height: 2.0; font-size: 16px;">
+<div align="left" style="line-height: 4.0; font-size: 16px;">
 
 - 🚀 **Currently Working On:** Exciting full-stack development projects  
 - 📚 **Currently Learning:** Angular, Docker, and Spring Security  
@@ -21,25 +21,19 @@
 
 </div>
 
-<br clear="both"/>
-
-
-<br clear="both"/>
-
----
-
 ### Contact
 
-<p align="center">
-  <a href="mailto:saalmahm51@gmail.com">
+
+<div style="margin-top: 85px;">
+  <a href="mailto:saalmahm51@gmail.com" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/salma-hamdi-4b66472a1" target="_blank">
+  <a href="https://linkedin.com/in/salma-hamdi-4b66472a1" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</div>
 
----
+<br clear="both"/>
 
 <h2 align="center">Languages & Tools</h2>
 
@@ -115,7 +109,6 @@
 
 </div>
 
----
 
 <h2 align="center">Statistics</h2>
 
@@ -137,7 +130,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=9932CC&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=E80956&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" />
 </h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+<img width="100%"  src="https://capsule-render.vercel.app/api?type=waving&color=E80956&height=120&section=footer"/>
